@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #02dafc;
+    width: 100vw;
+    height: auto;
+}
+
+.container{
+    max-width: 50%;
+    height: 60vh;
+    margin: 2% auto;
+    background: #fff;
+    padding: 2rem;
+    border-radius: 8px;
+   
+    margin: 10rem auto;
+}
+
+h1{
+    margin-bottom: 3rem;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+button{
+    margin-left: 2rem;
+}
+
+li{
+    list-style: none ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
